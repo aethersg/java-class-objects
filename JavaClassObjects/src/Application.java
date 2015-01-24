@@ -10,6 +10,6 @@ public class Application
         person2.name = "sarah smith";
         person2.age = 20;
 
-            System.out.println(person1.name);
+        System.out.println(person1.name);
         }
     }
